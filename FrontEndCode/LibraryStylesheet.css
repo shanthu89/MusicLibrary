@@ -1,0 +1,28 @@
+#MainForm_Container {
+    width: 600px ;
+   height: 600px ;
+   margin: auto;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   -webkit-box-sizing: content-box;
+}
+h2{
+    margin: auto;
+    width: 400px ;
+}
+h3{
+    margin: auto;
+    width: 400px ;
+}
+#choice{
+    width: 300px ;
+}
+body {
+    background-image: url(http://www.my-wall-decal.com/img/headphones_notes_wall_decal_s.jpg),url(http://kalakunjmusic.com.np/wp-content/uploads/2015/07/Treble-clef-and-music-notes.jpg);
+    background-position: right top,left bottom;
+    
+    
+    background-repeat: no-repeat,no-repeat;
+    background-size: 240px,240px;
+  
+}

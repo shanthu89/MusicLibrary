@@ -1,0 +1,26 @@
+body {
+    background-image: url(http://www.musicalityacademy.com/wp-content/uploads/2014/01/music-notes-white-background-wallpaper1.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+
+.table{
+    width: 250px;
+}
+#NewUserLogin{
+    width: 400px ;
+   height: 400px ;
+   margin: auto;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   -webkit-box-sizing: content-box;
+}
+#login_container {
+   width: 400px ;
+   height: 400px ;
+   margin: auto;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   -webkit-box-sizing: content-box;
+}
